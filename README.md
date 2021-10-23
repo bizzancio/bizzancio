@@ -1,6 +1,6 @@
 - 👋👽 Hi, I’m @bizzancio AKA Ly DL.
 -  I’m interested in Cloud ☁ & Infra.
--  I’m currently learning AWS, JS and Python🐍.
+-  I’m currently learning AWS and Golang🐍.
 
 <!---
 bizzancio/bizzancio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
